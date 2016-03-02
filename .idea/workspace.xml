@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd2c44f1-22db-4dc3-a54f-ea6d3a36ed6d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex17.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex18.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex16.py" afterPath="$PROJECT_DIR$/ex16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex19.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex18.py" afterPath="$PROJECT_DIR$/ex18.py" />
     </list>
     <ignored path="LearnPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +36,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex18.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex18.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex19.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex19.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -87,6 +95,7 @@
         <option value="$PROJECT_DIR$/ex16.py" />
         <option value="$PROJECT_DIR$/ex17.py" />
         <option value="$PROJECT_DIR$/ex18.py" />
+        <option value="$PROJECT_DIR$/ex19.py" />
       </list>
     </option>
   </component>
@@ -675,6 +684,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
